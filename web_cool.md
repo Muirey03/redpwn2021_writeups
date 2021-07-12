@@ -1,4 +1,4 @@
-# stonks (123 points)
+# web/cool (123 points)
 **Description :** *Aaron has a message for the cool kids. For support, DM BrownieInMotion. [cool.mc.ax](https://cool.mc.ax/)*
 
 **Given files :** *[app.py](https://static.redpwn.net/uploads/e03916d52bb7e84cbd2f9f26e5de162fdd0442c40d8397a103aab5813031fd83/app.py)*
